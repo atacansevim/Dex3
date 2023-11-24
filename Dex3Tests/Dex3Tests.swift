@@ -29,7 +29,6 @@ final class Dex3Tests: XCTestCase {
     
     func testExample2() throws {
         print("Third one run: \(Dex3Tests.counter)")
-        XCTAssertEqual(1, 2)
     }
 
 }
